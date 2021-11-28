@@ -1,3 +1,9 @@
+Strona do inwentaryzacji sklepu meblowego - React 16.x.
+
+
+https://user-images.githubusercontent.com/80004072/143781644-0333c87b-d121-4504-b62c-3928bcf72a4e.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
