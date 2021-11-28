@@ -87,7 +87,7 @@ function Body() {
   function addNewItem(value) {
     setItemList([...itemList, {
       name: value.name,
-      descn: value.desc
+      descn: value.descn
       , price: parseInt(value.price)
       , url: value.url
       , urltitle: value.urltitle
